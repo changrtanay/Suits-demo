@@ -1,7 +1,5 @@
-# ⚖️ Suits – AI-Powered Indian Judgement Explorer
-
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://suitsv2.vercel.app/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+# ⚖️ Suits – AI-Powered Indian Judgement Explorer
 
 **Suits** is an advanced AI-powered legal research platform that helps users explore Indian court judgements like never before. With AI summarization, semantic search, chatbot queries, topic tagging, and powerful insights—all in a beautiful, responsive interface—Suits transforms complex legal texts into accessible, searchable knowledge.
 
